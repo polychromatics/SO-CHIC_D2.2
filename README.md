@@ -1,4 +1,5 @@
-# [SO-CHIC project](http://www.sochic-h2020.eu/): Refurbishment and ballast reports for inclusion into deliverable 2.2: ** 
+# [SO-CHIC project](http://www.sochic-h2020.eu/): 
+# Refurbishment and ballast reports for inclusion into deliverable 2.2: ** 
 
 ## Prepare and ballast gliders in readiness for deployment - internal reports and packing documents
 
