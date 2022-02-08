@@ -10,11 +10,11 @@ File formats are:
 
 - [631_refurb_report_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024321/631_refurb_report_dec2020.xlsx)
 
-- [631_OCEAN_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024322/631_OCEAN_18122020.xlsx)
+- [631_ocean_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024322/631_OCEAN_18122020.xlsx)
 
 - [631_Slocum_functional_checkout_may2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024339/631_Slocum_functional_checkout_20210509.xlsx)
 
-- [631_OCEAN_july2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024356/631_OCEAN_20072021.xlsx)
+- [631_ocean_july2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024356/631_OCEAN_20072021.xlsx)
 
 - [631_refurb_report_july2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024357/631_refurb_report_jul2021.xlsx)
 
@@ -25,11 +25,11 @@ File formats are:
 
 - [632_refurb_report_Dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024441/632_refurb_report_Dec2020.xlsx)
 
-- [632_OCEAN_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024442/632_OCEAN_22122020.xlsx)
+- [632_ocean_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024442/632_OCEAN_22122020.xlsx)
 
 - [632_func_checkout_may2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024458/632_func_checkout_Oban_09052021.xlsx)
 
-- [632_OCEAN_July2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024452/632_OCEAN_July2021.xlsx)
+- [632_ocean_July2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024452/632_OCEAN_July2021.xlsx)
 
 - [632_refurb_report_July2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024453/632_refurb_report_July2021.xlsx)
 
@@ -38,7 +38,7 @@ File formats are:
 **Glider 633**
 - [633_refurb_report_Dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024484/633_refurb_report_Dec2020.xlsx)
 
-- [633_OCEAN_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024485/633_OCEAN_16122020.xlsx)
+- [633_ocean_dec2020.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024485/633_OCEAN_16122020.xlsx)
 
 - [633_fun_checkout_may2021.xlsx](https://github.com/polychromatics/SO-CHIC_D2.2/files/8024490/633_oban_fun_checkout_08052021.xlsx)
 
