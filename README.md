@@ -4,7 +4,7 @@ refurbishment and ballast reports for report Deliverable 2.2 of the SO-CHIC proj
 
 File formats are GliderNumber_reportType_dateOfReport
 
-https://github.com/polychromatics/SO-CHIC_D2.2/blob/main/631_OCEAN_02102018.xlsm
+[July_Ocean Doc](https://github.com/polychromatics/SO-CHIC_D2.2/blob/main/631_OCEAN_02102018.xlsm)
 
 https://github.com/polychromatics/SO-CHIC_D2.2/blob/main/631_OCEAN_20072021.xlsm
 
